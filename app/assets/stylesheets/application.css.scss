@@ -21,7 +21,7 @@
 
 //Typography Styles
 h1, h2, h3 {
-    font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 //Bckground Gradient
@@ -35,6 +35,11 @@ h1, h2, h3 {
  //Nav Styles
  .navbar {
    border: none;
+ }
+ 
+ .navbar-brand {
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 800;
  }
 
  .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
